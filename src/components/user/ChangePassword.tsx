@@ -28,6 +28,7 @@ const ChangePassword = ({ setUpdateAction }: Props) => {
   }
 
   function handleClickBack() {
+    //smth
     setUpdateAction("Profile")
   }
 
